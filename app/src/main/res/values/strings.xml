@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Unit Converter</string>
+    <string name="app_name">ConvertEase</string>
     <string name="result_value_placeholder">Result will be displayed here</string>
     <string name="length">Length</string>
     <string name="area">Area</string>
     <string name="mass">Mass</string>
     <string name="convert">Convert</string>
     <string name="input_value_hint">Enter value</string>
-    <string name="convert_arrow">Arrow Text</string>
+    <string name="convert_arrow">→</string>
     <string name="convert_button_text">Convert</string>
 </resources>
